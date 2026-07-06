@@ -4,7 +4,7 @@ A personal portfolio website created to organize and showcase my programming pro
 
 ## Live Website
 
-Add live website link here if deployed.
+rad-kringle-cbe325.netlify.app
 
 ## About This Project
 
@@ -25,6 +25,7 @@ The goal of this project is to show my growth over time while also practicing ba
 
 - HTML
 - CSS
+- JavaScript
 - Git
 - GitHub
 
