@@ -1,34 +1,47 @@
-# My Coding Progress Portfolio
+# Code Journey Portfolio
 
-This is a simple beginner-friendly portfolio website.
+A personal portfolio website created to organize and showcase my programming progress, projects, and learning journey as I work toward becoming a software engineer.
 
-## Files
+## Live Website
 
-- `index.html` controls the words and page sections.
-- `style.css` controls the colors, spacing, cards, and layout.
-- `script.js` has a small JavaScript message.
+Add live website link here if deployed.
 
-## How to open the website
+## About This Project
 
-1. Unzip the folder.
-2. Double-click `index.html`.
-3. The website will open in your browser.
+This portfolio was built to give my projects one organized place where visitors can view my progress in different programming languages and technologies. It includes separate sections for HTML, CSS, Python, SQL, JavaScript, and C# projects.
 
-## How to edit it
+The goal of this project is to show my growth over time while also practicing basic web development, project organization, and GitHub documentation.
 
-Open the folder in VS Code.
+## Features
 
-To add a project, open `index.html`, find the correct language section, copy one `<article class="project-card">` block, paste it under the same section, and change the project name, description, skills, and GitHub link.
+- Personal introduction section
+- Organized project categories by programming language
+- Project descriptions and progress tracking
+- Simple navigation
+- Beginner-friendly layout
+- Custom color themes for different project areas
 
-## Language colors
+## Technologies Used
 
-- HTML: orange/red
-- CSS: blue
-- Python: yellow/blue
-- SQL: purple
-- C#: green
-- Goals: pink and green
+- HTML
+- CSS
+- Git
+- GitHub
 
-## Beginner tip
+## What I Learned
 
-HTML is the content. CSS is the design. JavaScript adds behavior.
+While building this project, I practiced creating a multi-section website, organizing project information, linking pages together, and using GitHub to track my work. I also learned how important it is to present projects clearly so employers can quickly understand what I am building and learning.
+
+## Future Improvements
+
+- Add JavaScript for interactive filtering
+- Add live demo buttons for each project
+- Add project screenshots
+- Add a contact form
+- Improve mobile responsiveness
+- Add a section for Python + SQL projects
+
+## Author
+
+Savannah Young  
+Aspiring Software Engineer
