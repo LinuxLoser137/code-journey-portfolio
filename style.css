@@ -3,8 +3,8 @@
   HTML creates the structure. CSS makes it pretty.
 
   Main website theme:
-  Blue: #1e5eff
-  Orange: #ff8a00
+  Blue
+  Orange
 
   Language section colors:
   HTML: orange/red
@@ -25,13 +25,13 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #eef5ff;
+  background-color: #0509fa;
   color: #222;
   line-height: 1.6;
 }
 
 .navbar {
-  background-color: #0b3d91;
+  background-color: #080808;
   color: white;
   padding: 20px;
   display: flex;
@@ -66,7 +66,7 @@ body {
 .hero {
   text-align: center;
   padding: 70px 20px;
-  background: linear-gradient(135deg, #1e5eff, #ff8a00);
+  background: linear-gradient(135deg, #0804ff, #ff8800);
   color: white;
 }
 
@@ -99,7 +99,7 @@ main {
 
 .card,
 .language-section {
-  background-color: white;
+  background-color: rgb(240, 99, 6);
   padding: 25px;
   margin-bottom: 25px;
   border-radius: 12px;
@@ -107,7 +107,7 @@ main {
 }
 
 .card h2 {
-  color: #0b3d91;
+  color: #070707;
 }
 
 .progress-list {
